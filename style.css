@@ -48,3 +48,36 @@ background-position: right;
     ;
     width: 50%;
 }
+.bottom{
+    display: flex;
+
+}
+#one{
+    
+    border-left: 10px solid  ;
+   border-image: linear-gradient(red,orange);
+    border-image-slice: 1; 
+
+
+}
+#two{
+    border-left: 10px solid  ;
+    border-image: linear-gradient(rgb(0, 255, 81),rgb(68, 0, 255));
+     border-image-slice: 1; 
+   
+}
+.ses{
+    width: 40%;
+    padding:5% ;
+    margin: 5%;
+    box-shadow: 10px 10px 40px gray;
+}
+.last{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+footer{
+    text-align: center ;
+}
+)
