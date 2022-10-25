@@ -1,0 +1,37 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 40px;
+}
+#intro{
+    color: orangered;
+}
+.top{
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    
+}
+div img{
+    width: 80%;
+}
+ .para{
+    width: 80%;
+    padding: 20px;
+}
+
+.first{
+    width: 50%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(red,orange);
+    padding: 10px 40px;
+    color: white;
+   border-radius: 10px;
+}
